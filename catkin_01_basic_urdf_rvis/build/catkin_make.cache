@@ -1,0 +1,2 @@
+mrm_description
+-DCATKIN_DEVEL_PREFIX=/home/danu/catkin_custom/catkin_manipulator/catkin_01_basic_urdf_rvis/devel -DCMAKE_INSTALL_PREFIX=/home/danu/catkin_custom/catkin_manipulator/catkin_01_basic_urdf_rvis/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/danu/catkin_custom/catkin_manipulator/catkin_02_inertia/devel
+
+Name: mrm_description
+Description: Description of mrm_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
